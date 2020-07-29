@@ -1,7 +1,7 @@
 # Karan Alves Pereira :man_technologist:
 
 [![Site](https://img.shields.io/badge/Blog-blue.svg?style=flat-square&logo=wordpress)](https://karanalpe.com.br)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/karanalpe)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=flat-square&logo=youtube)](https://www.youtube.com/c/karanalpe)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/karanalpe/)
 [![StackOverflow](https://img.shields.io/twitter/url?label=Stack%20Overflow&logo=stackoverflow&style=flat-square&url=https%3A%2F%2Fpt.stackoverflow.com%2Fusers%2F39018%2Fkaranalpe%3Ftab%3Dprofile)](https://pt.stackoverflow.com/users/39018/karanalpe?tab=profile)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium)](https://medium.com/@karanalpe)
