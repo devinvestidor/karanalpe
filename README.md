@@ -1,16 +1,13 @@
 # Karan Alves Pereira :man_technologist:
 
 [![Site](https://img.shields.io/badge/Blog-blue.svg?style=flat-square&logo=wordpress)](https://karanalpe.com.br)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/karanalpe/)](https://www.linkedin.com/in/karanalpe/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=flat-square&logo=youtube)](https://www.youtube.com/c/karanalpe)
-[![StackOverflow](https://img.shields.io/badge/stackover-flow?style=flat-square)](https://pt.stackoverflow.com/users/39018/karanalpe?tab=profile)
-
-
-
 [![StackOverflow](https://img.shields.io/twitter/url?label=Stack%20Overflow&logo=stackoverflow&style=flat-square&url=https%3A%2F%2Fpt.stackoverflow.com%2Fusers%2F39018%2Fkaranalpe%3Ftab%3Dprofile)](https://pt.stackoverflow.com/users/39018/karanalpe?tab=profile)
 
-[![StackOverflow](https://img.shields.io/StackOverflow/?style=flat-square&logo=stack-overflow)](https://pt.stackoverflow.com/users/39018/karanalpe?tab=profile)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/karanalpe/)](https://www.linkedin.com/in/karanalpe/)
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karanalpe)](https://github.com/karanalpe)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
 
