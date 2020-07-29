@@ -5,18 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/karanalpe/)
 [![StackOverflow](https://img.shields.io/twitter/url?label=Stack%20Overflow&logo=stackoverflow&style=flat-square&url=https%3A%2F%2Fpt.stackoverflow.com%2Fusers%2F39018%2Fkaranalpe%3Ftab%3Dprofile)](https://pt.stackoverflow.com/users/39018/karanalpe?tab=profile)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium)](https://medium.com/@karanalpe)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
 
 
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karanalpe)](https://github.com/karanalpe)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
-
-
-Site
-Youtube...
-Stackoverflow
-Medium...
 
 https://img.shields.io/website?label=site&logo=medium&up_color=blue&url=https%3A%2F%2Fkaranalpe.com.br%2F
 
