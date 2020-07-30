@@ -7,9 +7,6 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@karanalpe)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
 
-
-<a target="_blank" href="https://karanalpe.com.br/">![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)</a>
-
 ### Hello! Welcome to my profile
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
@@ -17,5 +14,3 @@
 - 👷 I’m Scrum Master / Full-stack Developer at <a target="_blank" href="https://apollusehs.com.br/">Apollus EHS</a>
 - 👨‍🏫 I’m Training Instructor at <a target="_blank" href="https://ccea.org.br/">Centro Cultural Escrava Anastácia</a>
 - 🤓 I’m Blogger at <a target="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
-
-
