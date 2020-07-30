@@ -12,9 +12,9 @@
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
 
-- 🔭 I’m Scrum Master / Full-stack Developer at <a tager="_blanl" href="https://apollusehs.com.br/">Apollus EHS</a>
+- 👷 I’m Scrum Master / Full-stack Developer at <a tager="_blanl" href="https://apollusehs.com.br/">Apollus EHS</a>
 - 👨‍🏫 I’m Training Instructor at <a tager="_blank" href="https://ccea.org.br/">Centro Cultural Escrava Anastácia</a>
-- 🌱 I’m currently learning Dart, 💙 Flutter, IoT and Deno
+- 🤓 I’m Blogger at <a tager="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
 
 - 👯 I currently try to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
 - 💬 Ask me about them, open an **issue**
