@@ -8,9 +8,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
 
 
-### Hello! Welcome to my profile :octocat:
+### Hello! Welcome to my profile
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
-
 
 
 - 👷 I’m Scrum Master / Full-stack Developer at <a tager="_blanl" href="https://apollusehs.com.br/">Apollus EHS</a>
