@@ -1,4 +1,4 @@
-# Karan Alves Pereira
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 [![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](http://karanalpe.com.br)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/karanalpe)
@@ -16,3 +16,8 @@
 - 👷 I’m Scrum Master / Full-stack Developer at <a target="_blank" href="https://apollusehs.com.br/">Apollus EHS</a>
 - 👨‍🏫 I’m Training Instructor at <a target="_blank" href="https://ccea.org.br/">Centro Cultural Escrava Anastácia</a>
 - 🤓 I’m Blogger at <a target="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
