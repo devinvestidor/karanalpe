@@ -1,16 +1,4 @@
 # Karan Alves Pereira
-<p>
-	<img src="http://views.whatilearened.today/views/github/karanalpe/views.svg"/> 
-  	<img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
-    <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
-	<a href="https://github.com/karanalpe/">
-		<img src="https://img.shields.io/github/followers/karanalpe?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
-	</a>
-    <a href="https://github.com/karanalpe?tab=repositories">
-    	<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
-    </a>
-</p>
-
 
 [![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](http://karanalpe.com.br)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/karanalpe)
@@ -30,6 +18,7 @@
 - 🤓 I’m Blogger at <a target="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
 
 
+### About Karan
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
