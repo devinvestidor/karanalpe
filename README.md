@@ -18,7 +18,7 @@
 - 🤓 I’m Blogger at <a target="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
 
 
-### About Karan
+### About
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
