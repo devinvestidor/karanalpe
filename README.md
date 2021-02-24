@@ -1,10 +1,10 @@
 # Karan Alves Pereira
 
-[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](http://karanalpe.com.br)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/karanalpe)
+[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://devinvestidor.com.br/)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/devinvestidor)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/karanalpe/)
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://pt.stackoverflow.com/users/39018/karanalpe?tab=profile)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@karanalpe)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/me-ajude-a-crescer)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
 
 
